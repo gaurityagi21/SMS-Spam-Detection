@@ -15,17 +15,11 @@ The dataset used for this project is the SMS Spam Collection Dataset from Kaggle
 5. **Evaluate the models' performance** using metrics such as accuracy, precision, recall, and F1-score.
 6. **Save the best model** and necessary preprocessing artifacts (e.g., TF-IDF vectorizer) for future use.
 
-## installation
+## Installation
 
 To run this project locally, you need to have Python installed along with the following libraries:
 
 ```bash
-pip install pandas numpy scikit-learn joblib
+pip install pandas numpy scikit-learn joblib 
 
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Email:** gaurityagi21@gmail.com
-- **GitHub:** [gaurityag](https://github.com/gaurityagi21)
 
